@@ -13,7 +13,7 @@ Key Differences Between June and Dec
 ## Summary
 Both months have a statistically significant number of observations. While December has slightly lower temperatures than June, the weather is still lovely and should not interfere with plans to open a surf and ice cream shop. 
 
-Two additional queries were run to determine the total amount of percipitation each day for both the months of June and December. These queries are confined to 2016, the most recent year where there are records for both relevant months. 
+Two additional queries were run to determine the total amount of percipitation each day for both the months of June and December. These queries are confined to 2016, the most recent year where there are records for both relevant months. W Avy can rest assured that Oahu year round sees little percipitation. 
 
 
 
